@@ -1,0 +1,15 @@
+/* vendor */
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+
+/* logo */
+@import url(../blocks/logo/logo.css);
+/* page */
+@import url(../blocks/page/page.css);
+
+/* logo */
+@import url(../blocks/logo/logo.css);
+
+/* footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copy/footer__copy.css);

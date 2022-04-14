@@ -1,6 +1,7 @@
 /* vendor */
 @import url(../vendor/normalize.css);
-@import url(../vendor/fonts/fonts.css);
+@import url(../vendor/fonts/fonts.css); /*inter*/
+@import url(../vendor/fonts/orchideapro/stylesheet.css); /* orchideapro */
 
 /* header */
 @import url(../blocks/header/header.css);
@@ -12,12 +13,16 @@
 @import url(../blocks/header/__list/header__list.css);
 @import url(../blocks/header/__item/header__item.css);
 @import url(../blocks/header/__item-link/header__item-link.css);
+@import url(../blocks/header/__item-link/_active/header__item-link_active.css);
 
 /* lead */
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__wrapper/lead__wrapper.css);
 @import url(../blocks/lead/__wrapper-left/lead__wrapper-left.css);
+@import url(../blocks/lead/__wrapper-right/lead__wrapper-right.css);
+@import url(../blocks/lead/__sale/lead__sale.css);
+@import url(../blocks/lead/__button-sale/lead__button-sale.css);
 
 /* logo */
 @import url(../blocks/logo/logo.css);

@@ -1,19 +1,21 @@
-.header__call {
-  margin-left: 20px;
-  background-color: transparent;
+.lead__button-sale {
+  background-color: #f9ca24;
   border: none;
   text-align: left;
   box-sizing: border-box;
   cursor: pointer;
-  font-size: 25px;
-  font-weight: 500;
+
   padding: 0 30px 0;
   border: 5px solid #f9ca24;
-  border-radius: 20px;
-  color: #f9ca24;
+  border-radius: 50px;
+  color: #000;
+  transition: 0.5s;
+  font-size: 25px;
+  font-weight: 700;
+  text-align: center;
 }
 
-.header__call:hover {
+.lead__button-sale:hover {
   background-color: black;
   color: #f9ca24;
   border: 5px solid black;

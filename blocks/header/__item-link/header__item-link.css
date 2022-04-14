@@ -1,9 +1,11 @@
 .header__item-link {
   text-decoration: none;
-  transition: 0.5s;
+  transition: 0.3s;
+  color: black;
+  font-size: 30px;
 }
 
 .header__item-link:hover {
-  opacity: 0.6;
-  color: blue;
+  color: #f9ca24;
+  text-decoration: underline;
 }

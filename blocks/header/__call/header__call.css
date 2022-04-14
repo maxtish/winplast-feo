@@ -8,13 +8,13 @@
   font-size: 25px;
   font-weight: 500;
   padding: 0 30px 0;
-  border: 5px solid blue;
-  border-radius: 5px;
-  color: blue;
+  border: 5px solid #f9ca24;
+  border-radius: 20px;
+  color: #f9ca24;
 }
 
 .header__call:hover {
   background-color: black;
-  color: #fff;
+  color: #f9ca24;
   border: 3px solid black;
 }

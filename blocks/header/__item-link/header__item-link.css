@@ -1,0 +1,9 @@
+.header__item-link {
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+.header__item-link:hover {
+  opacity: 0.6;
+  color: blue;
+}

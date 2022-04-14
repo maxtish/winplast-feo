@@ -1,3 +1,20 @@
 .header__call {
-    
+  margin-left: 20px;
+  background-color: transparent;
+  border: none;
+  text-align: left;
+  box-sizing: border-box;
+  cursor: pointer;
+  font-size: 25px;
+  font-weight: 500;
+  padding: 0 30px 0;
+  border: 5px solid blue;
+  border-radius: 5px;
+  color: blue;
+}
+
+.header__call:hover {
+  background-color: black;
+  color: #fff;
+  border: 3px solid black;
 }

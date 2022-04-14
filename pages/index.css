@@ -8,6 +8,10 @@
 @import url(../blocks/header/__social-links/header__social-links.css);
 @import url(../blocks/header/__callback/header__callback.css);
 @import url(../blocks/header/__call/header__call.css);
+@import url(../blocks/header/__social-link/header__social-link.css);
+@import url(../blocks/header/__list/header__list.css);
+@import url(../blocks/header/__item/header__item.css);
+@import url(../blocks/header/__item-link/header__item-link.css);
 
 /* logo */
 @import url(../blocks/logo/logo.css);

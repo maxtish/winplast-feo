@@ -1,3 +1,18 @@
 .header__callback {
-    
+  margin-left: 20px;
+  background-color: transparent;
+  border: none;
+  text-align: left;
+  box-sizing: border-box;
+  cursor: pointer;
+  font-size: 25px;
+  font-weight: 500;
+  padding: 0 30px 0;
+  border: 5px solid black;
+  border-radius: 5px;
+}
+
+.header__callback:hover {
+  background-color: black;
+  color: #fff;
 }

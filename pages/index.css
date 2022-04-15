@@ -35,6 +35,13 @@
 
 /* steps */
 @import url(../blocks/steps/steps.css);
+@import url(../blocks/steps/__title/steps__title.css);
+@import url(../blocks/steps/__container/steps__container.css);
+@import url(../blocks/steps/__step/steps__step.css);
+@import url(../blocks/steps/__circle/steps__circle.css);
+@import url(../blocks/steps/__subtitle/steps__subtitle.css);
+@import url(../blocks/steps/__paragraph/steps__paragraph.css);
+@import url(../blocks/steps/__button-callback/steps__button-callback.css);
 
 /* footer */
 @import url(../blocks/footer/footer.css);

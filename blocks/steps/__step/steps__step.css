@@ -1,0 +1,12 @@
+.steps__step {
+  margin-left: 50px;
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.steps__step:first-child {
+  margin-left: 0;
+}

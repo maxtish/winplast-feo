@@ -16,6 +16,7 @@
 @import url(../blocks/header/__callback/header__callback.css);
 @import url(../blocks/header/__call/header__call.css);
 @import url(../blocks/header/__social-link/header__social-link.css);
+@import url(../blocks/header/__nav/header__nav.css);
 @import url(../blocks/header/__list/header__list.css);
 @import url(../blocks/header/__item/header__item.css);
 @import url(../blocks/header/__item-link/header__item-link.css);
@@ -42,6 +43,18 @@
 @import url(../blocks/steps/__subtitle/steps__subtitle.css);
 @import url(../blocks/steps/__paragraph/steps__paragraph.css);
 @import url(../blocks/steps/__button-callback/steps__button-callback.css);
+
+/* about */
+@import url(../blocks/about/about.css);
+@import url(../blocks/about/__company/about__company.css);
+@import url(../blocks/about/__title/about__title.css);
+@import url(../blocks/about/__subtitle/about__subtitle.css);
+@import url(../blocks/about/__link-call/about__link-call.css);
+@import url(../blocks/about/__list/about__list.css);
+@import url(../blocks/about/__item/about__item.css);
+@import url(../blocks/about/__item-paragraph/about__item-paragraph.css);
+@import url(../blocks/about/__paragraph-help/about__paragraph-help.css);
+@import url(../blocks/about/__link-callback/about__link-callback.css);
 
 /* footer */
 @import url(../blocks/footer/footer.css);

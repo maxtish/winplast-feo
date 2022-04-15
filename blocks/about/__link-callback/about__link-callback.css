@@ -1,10 +1,9 @@
-.lead__link {
+.about__link-callback {
   text-decoration: underline;
   transition: 0.3s;
   color: #f9ca24;
-  font-size: 18px;
 }
 
-.lead__link:hover {
+.about__link-callback:hover {
   opacity: 0.8;
 }

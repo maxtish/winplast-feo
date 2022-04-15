@@ -1,0 +1,11 @@
+.lead__item {
+  display: flex;
+  align-items: center;
+  margin-top: 50px;
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.lead__item:first-child {
+  margin-top: 0;
+}

@@ -1,2 +1,5 @@
 .lead__wrapper-right {
+  width: 600px;
+  display: flex;
+  flex-direction: column;
 }

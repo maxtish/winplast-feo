@@ -3,6 +3,12 @@
 @import url(../vendor/fonts/fonts.css); /*inter*/
 @import url(../vendor/fonts/orchideapro/stylesheet.css); /* orchideapro */
 
+/* logo */
+@import url(../blocks/logo/logo.css);
+
+/* page */
+@import url(../blocks/page/page.css);
+
 /* header */
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__contact/header__contact.css);
@@ -23,14 +29,12 @@
 @import url(../blocks/lead/__wrapper-right/lead__wrapper-right.css);
 @import url(../blocks/lead/__sale/lead__sale.css);
 @import url(../blocks/lead/__button-sale/lead__button-sale.css);
+@import url(../blocks/lead/__item/lead__item.css);
+@import url(../blocks/lead/__icon/lead__icon.css);
+@import url(../blocks/lead/__link/lead__link.css);
 
-/* logo */
-@import url(../blocks/logo/logo.css);
-/* page */
-@import url(../blocks/page/page.css);
-
-/* logo */
-@import url(../blocks/logo/logo.css);
+/* steps */
+@import url(../blocks/steps/steps.css);
 
 /* footer */
 @import url(../blocks/footer/footer.css);

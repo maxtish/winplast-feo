@@ -1,0 +1,10 @@
+.lead__link {
+  text-decoration: underline;
+  transition: 0.3s;
+  color: #f9ca24;
+  font-size: 30px;
+}
+
+.lead__link:hover {
+  opacity: 0.8;
+}

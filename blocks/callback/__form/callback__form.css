@@ -1,0 +1,9 @@
+.callback__form {
+  width: 870px;
+  background-color: #f9ca24;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

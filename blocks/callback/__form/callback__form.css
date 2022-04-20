@@ -1,4 +1,5 @@
 .callback__form {
+  position: relative;
   width: 870px;
   background-color: #f9ca24;
   padding: 30px;

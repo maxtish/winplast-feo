@@ -79,6 +79,14 @@
 @import url(../blocks/callback/__handlers/callback__handlers.css);
 @import url(../blocks/callback/__button/callback__button.css);
 
+/* profiles */
+@import url(../blocks/profiles/profiles.css);
+@import url(../blocks/profiles/__title/profiles__title.css);
+@import url(../blocks/profiles/__content/profiles__content.css);
+@import url(../blocks/profiles/__description/profiles__description.css);
+@import url(../blocks/profiles/__subtitle/profiles__subtitle.css);
+@import url(../blocks/profiles/__paragraph/profiles__paragraph.css);
+@import url(../blocks/profiles/__item/profiles__item.css);
 /* footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copy/footer__copy.css);

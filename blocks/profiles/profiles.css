@@ -1,0 +1,6 @@
+.profiles {
+  display: flex;
+  flex-direction: column;
+  color: black;
+  background-color: #f0f0f0;
+}

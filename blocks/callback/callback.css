@@ -1,5 +1,6 @@
 .callback {
   position: relative;
+
   margin-top: 50px;
   padding: 150px 0;
   display: flex;
@@ -29,11 +30,11 @@
   );
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);
   position: absolute;
-  width: 100%;
-  height: 100vh;
 
   top: 0;
   right: 0;
+  left: 0;
+  bottom: 0;
 
   content: '';
   box-sizing: border-box;

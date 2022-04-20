@@ -1,0 +1,8 @@
+.profiles__item {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.profiles__item:first-of-type {
+  margin-top: 0;
+}

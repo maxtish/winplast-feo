@@ -87,6 +87,13 @@
 @import url(../blocks/profiles/__subtitle/profiles__subtitle.css);
 @import url(../blocks/profiles/__paragraph/profiles__paragraph.css);
 @import url(../blocks/profiles/__item/profiles__item.css);
+
+/* brand-grid */
+@import url(../blocks/brand-grid/brand-grid.css);
+@import url(../blocks/brand-grid/__list/brand-grid__list.css);
+@import url(../blocks/brand-grid/__item/brand-grid__item.css);
+@import url(../blocks/brand-grid/__image/brand-grid__image.css);
+
 /* footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copy/footer__copy.css);

@@ -1,0 +1,5 @@
+.brand-grid__image {
+  max-width: 100%;
+  object-fit: cover;
+  box-sizing: border-box;
+}

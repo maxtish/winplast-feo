@@ -1,3 +1,4 @@
 .furniture__item {
   padding: 25px 47px 25px 30px;
+  cursor: pointer;
 }

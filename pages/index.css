@@ -94,6 +94,23 @@
 @import url(../blocks/brand-grid/__item/brand-grid__item.css);
 @import url(../blocks/brand-grid/__image/brand-grid__image.css);
 
+/* furniture */
+@import url(../blocks/furniture/furniture.css);
+@import url(../blocks/furniture/__title/furniture__title.css);
+@import url(../blocks/furniture/__subtitle/furniture__subtitle.css);
+@import url(../blocks/furniture/__content/furniture__content.css);
+@import url(../blocks/furniture/__list/furniture__list.css);
+@import url(../blocks/furniture/__item/furniture__item.css);
+@import url(../blocks/furniture/__item-title/furniture__item-title.css);
+@import url(../blocks/furniture/__item-paragraph/furniture__item-paragraph.css);
+@import url(../blocks/furniture/__images-f1/furniture__images-f1.css);
+@import url(../blocks/furniture/__images-f1/_active/furniture__images-f1_active.css);
+@import url(../blocks/furniture/__images-f2/furniture__images-f2.css);
+@import url(../blocks/furniture/__images-f2/_active/furniture__images-f2_active.css);
+@import url(../blocks/furniture/__images-f3/furniture__images-f3.css);
+@import url(../blocks/furniture/__images-f3/_active/furniture__images-f3_active.css);
+@import url(../blocks/furniture/__item/_active/furniture__item_active.css);
+
 /* footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copy/footer__copy.css);

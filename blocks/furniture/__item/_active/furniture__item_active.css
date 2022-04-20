@@ -1,0 +1,4 @@
+.furniture__item_active {
+  border: 1px solid #000;
+  border-radius: 7px;
+}

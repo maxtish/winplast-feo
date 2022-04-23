@@ -1,2 +1,6 @@
 .comfort__cards {
+  width: 560px;
+  margin: 0 20px;
+  display: flex;
+  background-color: white;
 }

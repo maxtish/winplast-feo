@@ -1,0 +1,12 @@
+.contacts__contact {
+  position: absolute;
+  z-index: 3;
+  top: 50px;
+  left: 100px;
+  width: 340px;
+  height: 340px;
+  padding: 60px;
+  background-color: black;
+
+  color: white;
+}

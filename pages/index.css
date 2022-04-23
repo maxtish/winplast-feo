@@ -114,6 +114,21 @@
 @import url(../blocks/furniture/__images-f3/_active/furniture__images-f3_active.css);
 @import url(../blocks/furniture/__item/_active/furniture__item_active.css);
 
+/* gallery */
+
+@import url(../blocks/gallery-grid/gallery-grid.css);
+@import url(../blocks/gallery-grid/__title/gallery-grid__title.css);
+@import url(../blocks/gallery-grid/__list/gallery-grid__list.css);
+@import url(../blocks/gallery-grid/__item/gallery-grid__item.css);
+@import url(../blocks/gallery-grid/__image/gallery-grid__image.css);
+
+/* comfort */
+@import url(../blocks/comfort/comfort.css);
+@import url(../blocks/comfort/__content/comfort__content.css);
+@import url(../blocks/comfort/__cards/comfort__cards.css);
+@import url(../blocks/comfort/__deposit/comfort__deposit.css);
+@import url(../blocks/comfort/__title/comfort__title.css);
+
 /* footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copy/footer__copy.css);

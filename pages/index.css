@@ -11,6 +11,7 @@
 
 /* header */
 @import url(../blocks/header/header.css);
+@import url(../blocks/header/__question/header__question.css);
 @import url(../blocks/header/__contact/header__contact.css);
 @import url(../blocks/header/__social-links/header__social-links.css);
 @import url(../blocks/header/__callback/header__callback.css);
@@ -21,6 +22,10 @@
 @import url(../blocks/header/__item/header__item.css);
 @import url(../blocks/header/__item-link/header__item-link.css);
 @import url(../blocks/header/__item-link/_active/header__item-link_active.css);
+@import url(../blocks/header/__ico-wa/header__ico-wa.css);
+@import url(../blocks/header/__container/header__container.css);
+@import url(../blocks/header/__social-text/header__social-text.css);
+@import url(../blocks/header/__social-container/header__social-container.css);
 
 /* lead */
 @import url(../blocks/lead/lead.css);

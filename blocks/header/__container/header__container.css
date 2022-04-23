@@ -1,0 +1,8 @@
+.header__container {
+  width: 290px;
+  margin-right: 20px;
+}
+
+.header__container:last-of-type {
+  margin-right: 0;
+}

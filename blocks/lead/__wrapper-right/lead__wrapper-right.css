@@ -1,4 +1,6 @@
 .lead__wrapper-right {
+  padding-top: 30px;
+  margin-left: 150px;
   max-width: 600px;
   display: flex;
   flex-direction: column;

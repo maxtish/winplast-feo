@@ -1,4 +1,11 @@
 .header__social-link {
-  height: 88px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
   cursor: pointer;
+  text-decoration: none;
+}
+
+.header__social-link:last-of-type {
+  margin-bottom: 0;
 }

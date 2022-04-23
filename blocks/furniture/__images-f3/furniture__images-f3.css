@@ -3,6 +3,6 @@
   width: 760px;
   height: 760px;
   background-image: url(../../../images/f3.png);
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
 }

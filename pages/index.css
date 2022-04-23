@@ -5,6 +5,7 @@
 
 /* logo */
 @import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/_footer/logo_footer.css);
 
 /* page */
 @import url(../blocks/page/page.css);
@@ -145,3 +146,5 @@
 /* footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copy/footer__copy.css);
+@import url(../blocks/footer/__content/footer__content.css);
+@import url(../blocks/footer/__link/footer__link.css);

@@ -83,6 +83,9 @@
 @import url(../blocks/callback/__handlers/callback__handlers.css);
 @import url(../blocks/callback/__button/callback__button.css);
 @import url(../blocks/callback/_deley/callback_deley.css);
+@import url(../blocks/callback/__inputs/callback__inputs.css);
+@import url(../blocks/callback/__privacy/callback__privacy.css);
+@import url(../blocks/callback/__privacy-link/callback__privacy-link.css);
 
 /* profiles */
 @import url(../blocks/profiles/profiles.css);

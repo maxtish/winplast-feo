@@ -1,5 +1,6 @@
 .callback_deley {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   background-color: #f9ca24;

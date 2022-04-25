@@ -503,17 +503,21 @@
 
         <!--popup-->
 
-        <div class="popup popup_callback popup_opened" id="popup-callback">
+        <div class="popup popup_callback" id="popup-callback">
             <!--popup_opened-->
             <div class="popup__container">
-                <img class="logo" src="./images/logo.png" alt="ВинПласт">
-                <h2 class="popup__title">Оставьте свой телефон</h2>
-                <p class="popup__subtitle">Наш менеджер свяжется с Вами в ближайшее время и примет заявку</p>
+                <button class="popup__close" id="popup-close-img" type="button" aria-label="Закрыть"></button>
+
+                <h2 class="popup__title">ОБРАТНЫЙ ЗВОНОК</h2>
+                <p class="popup__subtitle">Заполните форму и наш специалист свяжется с Вами в течение 15 минут</p>
+
                 <form class="popup__form" enctype="multipart/form-data" method="post" id="form"
                     onsubmit="send(event, 'send.php')">
                     <div class="popup__inputs">
                         <fieldset class="popup__input-container">
-                            <input class="popup__item" placeholder="Номер телефона" name="email" type="text">
+
+                            <input class="popup__item" placeholder="Ваше имя" name="name" type="text">
+                            <input class="popup__item" placeholder="+7 (___) ___-__-__" name="email" type="text">
                         </fieldset>
                         <fieldset class="popup__handlers">
                             <input class="popup__button" type="submit" value="Заказать звонок">

@@ -501,28 +501,29 @@
 
 
 
+        <!--popup-->
 
-        <!--Новое место
-        <div class="popup" id="popup-new-cards">
-           
+        <div class="popup popup_callback popup_opened" id="popup-callback">
+            <!--popup_opened-->
             <div class="popup__container">
-                <button class="popup__close" id="popup-close-cards" type="button" aria-label="Закрыть"></button>
-                <form class="popup__form" id="popup-form-cards" name="edit-profile">
-                    <h2 class="popup__title">Новое место</h2>
-                    <fieldset class="popup__input-container">
-                        <input type="text" class="popup__item" id="name-input-cards" name="name" placeholder="Название"
-                            required>
-                        <input type="text" class="popup__item" id='link-input-cards' name="link"
-                            placeholder="Ссылка на картинку" required>
-                    </fieldset>
-                    <fieldset class="popup__handlers">
-                        <input class="popup__button" type="submit" value="Создать">
-                    </fieldset>
+                <img class="logo" src="./images/logo.png" alt="ВинПласт">
+                <h2 class="popup__title">Оставьте свой телефон</h2>
+                <p class="popup__subtitle">Наш менеджер свяжется с Вами в ближайшее время и примет заявку</p>
+                <form class="popup__form" enctype="multipart/form-data" method="post" id="form"
+                    onsubmit="send(event, 'send.php')">
+                    <div class="popup__inputs">
+                        <fieldset class="popup__input-container">
+                            <input class="popup__item" placeholder="Номер телефона" name="email" type="text">
+                        </fieldset>
+                        <fieldset class="popup__handlers">
+                            <input class="popup__button" type="submit" value="Заказать звонок">
+                        </fieldset>
+                    </div>
+                    <p class="popup__privacy">Нажимая на кнопку вы соглашаетесь с нашими <a class="popup__privacy-link"
+                            href="./privacy.html"> условиями о передаче
+                            данных</a></p>
                 </form>
             </div>
-        </div>
-    -->
-
 
     </main>
 

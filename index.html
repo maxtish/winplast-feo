@@ -422,13 +422,37 @@
             </div>
         </section>
         <section class="callback_deley">
-
+            <link rel="stylesheet" type="text/css" media="screen" href="style_zap.css">
             <form class="callback__form" id="callback-form-cards" name="edit-profile">
                 <h2 class="callback__title">Предлагаем рассрочку!</h2>
                 <p class="callback__subtitle">Без переплаты, первый платеж через месяц. Позвоните <a
                         href="tel:+79787212100">+7(978)721-21-00</a> или
                     закажите обратный звонок, заполнив форму ниже</p>
-                <fieldset class="callback__input-container">
+                <div class="main-content">
+                    <form class="obratnuj-zvonok" autocomplete="off" action='email.php' method='post'>
+                        <div class="form-zvonok">
+                            <div>
+                                <label>Имя <span>*</span></label>
+                                <input type='text' name='username' required>
+                            </div>
+                            <div>
+                                <label>Номер телефона (с кодом) <span>*</span></label>
+                                <input type='text' name='usernumber' required>
+                            </div>
+                            <div>
+                                <label>Сообщение</label>
+                                <input type='text' name='question'>
+                            </div>
+                            <input class="bot-send-mail" type='submit' value='Послать заявку'>
+                        </div>
+                    </form>
+                    <p>Шаблон формы обратной связи. Разработанно специально для <a
+                            href="http://dev.asifmoda.com">dev.asifmoda.com</a>. Можно использовать для обучения,
+                        частных и комерческих проектов.</p>
+                    <p>Прывітанне з Беларусі!</p>
+                </div>
+                <!--
+                    <fieldset class="callback__input-container">
                     <input type="text" class="callback__item" id="name-input-cards" name="name" placeholder="Ваше имя"
                         required>
                     <input type="tel" class="callback__item" maxlength="15" name="link" placeholder="+7(999) 999-99-99"
@@ -437,6 +461,7 @@
                 <fieldset class="callback__handlers">
                     <input class="callback__button" type="submit" value="Заказать звонок">
                 </fieldset>
+            -->
             </form>
 
         </section>

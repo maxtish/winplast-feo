@@ -73,18 +73,30 @@
                     </button>
                 </div>
                 <div class="lead__wrapper-right">
-                    <div class="lead__item"><img class="lead__icon" src="./images/time.webp" alt="">
-                        <p>Чистый монтаж за 1 час.</p>
-                    </div>
-                    <div class="lead__item"><img class="lead__icon" src="./images/rasrochka.webp" alt="">
-                        <p>Рассрочка на 6 месяцев.</p>
-                    </div>
-                    <div class="lead__item"><img class="lead__icon" src="./images/vopros.webp" alt=""><a
-                            class="lead__link" href="#">Что я получу
-                            при заказе окна?</a>
-                    </div>
-
+                    <form class="callback__form callback__form_lead" enctype="multipart/form-data" method="post"
+                        id="form" onsubmit="send(event, 'send.php')">
+                        <img class="callback__sale" src="./images/icon-sale.svg" alt="">
+                        <h2 class="callback__title">ЗАПИСАТЬСЯ</h2>
+                        <p class="callback__subtitle">на бесплатный замер
+                            и получить скидку!</p>
+                        <div class="callback__inputs callback__form_lead ">
+                            <fieldset class="callback__input-container callback__input-container_lead">
+                                <input class="callback__item callback__item_lead" placeholder="Ваше имя" name="name"
+                                    type="text">
+                                <input class="callback__item callback__item_lead" placeholder="Номер телефона"
+                                    name="email" type="text">
+                            </fieldset>
+                            <fieldset class="callback__handlers">
+                                <input class="callback__button" type="submit" value="Заказать звонок">
+                            </fieldset>
+                        </div>
+                        <p class="callback__privacy">Нажимая на кнопку, Вы даете согласие на <a
+                                class="callback__privacy-link" href="./privacy.html"> обработку своих персональных
+                                данных.</a></p>
+                    </form>
                 </div>
+
+            </div>
             </div>
         </section>
 
@@ -434,11 +446,7 @@
 
 
         <section class="callback_deley">
-
-
-
             <div>
-
                 <form class="callback__form" enctype="multipart/form-data" method="post" id="form"
                     onsubmit="send(event, 'send.php')">
                     <img class="callback__sale" src="./images/icon-sale.svg" alt="">

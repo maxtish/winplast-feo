@@ -1,7 +1,7 @@
 .lead {
   position: relative;
   height: 100vh;
-  background-image: url(../../images/kerch.jpg);
+  background-image: url(../../images/head.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -10,7 +10,7 @@
   align-items: center;
   justify-content: space-between;
 }
-
+/*
 .lead::before {
   background: rgb(0, 0, 0);
   background: -moz-linear-gradient(
@@ -39,3 +39,4 @@
   content: '';
   box-sizing: border-box;
 }
+*/

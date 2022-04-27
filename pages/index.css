@@ -77,10 +77,13 @@
 @import url(../blocks/callback/callback.css);
 @import url(../blocks/callback/__sale/callback__sale.css);
 @import url(../blocks/callback/__form/callback__form.css);
+@import url(../blocks/callback/__form/_lead/callback__form_lead.css);
 @import url(../blocks/callback/__title/callback__title.css);
 @import url(../blocks/callback/__subtitle/callback__subtitle.css);
 @import url(../blocks/callback/__input-container/callback__input-container.css);
+@import url(../blocks/callback/__input-container/_lead/callback__input-container_lead.css);
 @import url(../blocks/callback/__item/callback__item.css);
+@import url(../blocks/callback/__item/_lead/callback__item_lead.css);
 @import url(../blocks/callback/__handlers/callback__handlers.css);
 @import url(../blocks/callback/__button/callback__button.css);
 @import url(../blocks/callback/_deley/callback_deley.css);

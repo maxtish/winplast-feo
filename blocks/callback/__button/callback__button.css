@@ -2,7 +2,7 @@
   width: 250px;
   height: 56px;
 
-  background-color: #000;
+  background-color: #ff3333;
   border: none;
   text-align: center;
   box-sizing: border-box;
@@ -10,7 +10,7 @@
   font-size: 16px;
   font-weight: 700;
 
-  border: 2px solid #000;
+  border: 2px solid rgb(211, 211, 211);
 
   color: #fff;
   transition: 0.5s;
@@ -23,7 +23,7 @@
 }
 
 .callback__button:hover {
-  background-color: #f9ca24;
+  background-color: #00ccff;
   color: #000;
-  border: 2px solid #000;
+  border: 2px solid rgb(211, 211, 211);
 }

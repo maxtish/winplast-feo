@@ -1,7 +1,7 @@
 .comfort__callback {
   width: 250px;
   margin-top: 10px;
-  background-color: #f9ca24;
+  background-color: #ff3333;
   border: none;
   text-align: center;
   box-sizing: border-box;
@@ -11,11 +11,11 @@
   padding: 0 30px 0;
 
   border-radius: 50px;
-  color: #000;
+  color: #fff;
   transition: 0.5s;
 }
 
 .comfort__callback:hover {
-  background-color: #000;
-  color: #f9ca24;
+  background-color: #00ccff;
+  color: #000;
 }

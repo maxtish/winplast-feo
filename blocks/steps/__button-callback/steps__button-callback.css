@@ -1,6 +1,6 @@
 .steps__button-callback {
   margin-top: 20px;
-  background-color: black;
+  background-color: #ff3333;
   border: none;
   text-align: left;
   box-sizing: border-box;
@@ -15,6 +15,6 @@
 }
 
 .steps__button-callback:hover {
-  background-color: transparent;
+  background-color: #00ccff;
   color: #000;
 }

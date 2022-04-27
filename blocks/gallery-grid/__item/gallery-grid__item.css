@@ -1,7 +1,8 @@
 .gallery-grid__item {
   width: 290px;
   cursor: pointer;
-  background-color: rgba(249, 202, 36, 0.75);
+  background-color: rgb(211, 211, 211);
+  color: rgb(0, 0, 0);
   border-radius: 35px;
   display: flex;
   flex-direction: column;

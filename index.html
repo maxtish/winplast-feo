@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="ru">
-<!-- Цвет желтый #f9ca24 -->
+<!-- Цвет желтый #f9ca24 red: #ff3333 blue: #00ccff  aliceblue: #f0f8ff-->
 
 <head>
     <meta charset="UTF-8">
@@ -17,12 +17,14 @@
         <div class="header__contact">
             <div class="header__container">
                 <img class="logo" src="./images/logo.png" alt="ВинПласт">
-                <p class="header__question">Окна в любом городе Крыма</p>
+                <p class="header__question">нам 15 лет</p>
             </div>
 
             <div class="header__container">
-                <p class="header__question">Есть вопрос?<br>Позвоните нам</p>
-                <a class="header__call" href="tel:+79787212100">+7(978)721-21-00</a>
+                <p class="header__question">Скидка 50% на любые окна!
+                    Предложение ограничено.
+                </p>
+
             </div>
 
             <div class="header__social-container">
@@ -36,7 +38,7 @@
                     <p class="header__social-text">Viber</p>
                 </a>
             </div>
-
+            <a class="header__call" href="tel:+79787212100">+7(978) 721-21-00</a>
             <div class="header__container">
                 <p class="header__question">Или закажите обратный звонок и мы перезвоним</p>
                 <button class="header__callback">
@@ -199,10 +201,12 @@
         </section>
 
         <section class="callback">
-
-            <form class="callback__form" id="callback-form-cards" name="edit-profile">
-                <h2 class="callback__title">Закажите обратный звонок</h2>
-                <p class="callback__subtitle">Наш менеджер поможет с замерами, расчетами и составлением договора</p>
+            <form class="callback__form" enctype="multipart/form-data" method="post" id="form"
+                onsubmit="send(event, 'send.php')">
+                <img class="callback__sale" src="./images/icon-sale.svg" alt="">
+                <h2 class="callback__title">ЗАПИСАТЬСЯ</h2>
+                <p class="callback__subtitle">на бесплатный замер
+                    и получить скидку!</p>
                 <div class="callback__inputs">
                     <fieldset class="callback__input-container">
                         <input class="callback__item" placeholder="Ваше имя" name="name" type="text">
@@ -212,9 +216,8 @@
                         <input class="callback__button" type="submit" value="Заказать звонок">
                     </fieldset>
                 </div>
-                <p class="callback__privacy">Нажимая на кнопку вы соглашаетесь с нашими <a
-                        class="callback__privacy-link" href="./privacy.html"> условиями о передаче
-                        данных</a></p>
+                <p class="callback__privacy">Нажимая на кнопку, Вы даете согласие на <a class="callback__privacy-link"
+                        href="./privacy.html"> обработку своих персональных данных.</a></p>
             </form>
 
 
@@ -425,14 +428,39 @@
                 </div>
             </div>
         </section>
+
+
+
+
+
         <section class="callback_deley">
-            <h2 class="callback__title">Предлагаем рассрочку!</h2>
-            <p class="callback__subtitle">Без переплаты, первый платеж через месяц. Позвоните <a
-                    href="tel:+79787212100">+7(978)721-21-00</a> или
-                закажите обратный звонок, заполнив форму ниже</p>
+
 
 
             <div>
+
+                <form class="callback__form" enctype="multipart/form-data" method="post" id="form"
+                    onsubmit="send(event, 'send.php')">
+                    <img class="callback__sale" src="./images/icon-sale.svg" alt="">
+                    <h2 class="callback__title">Предлагаем рассрочку!</h2>
+                    <p class="callback__subtitle">Без переплаты, первый платеж через месяц. Позвоните <a
+                            href="tel:+79787212100">+7(978)721-21-00</a> или
+                        закажите обратный звонок, заполнив форму ниже</p>
+                    <div class="callback__inputs">
+                        <fieldset class="callback__input-container">
+                            <input class="callback__item" placeholder="Ваше имя" name="name" type="text">
+                            <input class="callback__item" placeholder="Номер телефона" name="email" type="text">
+                        </fieldset>
+                        <fieldset class="callback__handlers">
+                            <input class="callback__button" type="submit" value="Заказать звонок">
+                        </fieldset>
+                    </div>
+                    <p class="callback__privacy">Нажимая на кнопку, Вы даете согласие на <a
+                            class="callback__privacy-link" href="./privacy.html"> обработку своих персональных
+                            данных.</a></p>
+                </form>
+                <!-- 
+
                 <form class="callback__form" enctype="multipart/form-data" method="post" id="form"
                     onsubmit="send(event, 'send.php')">
                     <div class="callback__inputs">
@@ -440,12 +468,14 @@
                             <input class="callback__item" placeholder="Ваше имя" name="name" type="text">
 
                             <input class="callback__item" placeholder="Номер телефона" name="email" type="text">
-                            <!-- 
+                             -->
+                <!-- 
                     <p>Сообщение</p>
                     <textarea name="text"></textarea>
                     <p>Прикрепить файлы</p>
                     <input type="file" name="myfile[]" multiple id="myfile">
                     -->
+                <!-- 
                         </fieldset>
                         <fieldset class="callback__handlers">
                             <input class="callback__button" type="submit" value="Заказать звонок">
@@ -458,7 +488,8 @@
             </div>
 
 
-            <!--
+            -->
+                <!--
 
                     <form class="callback__form" id="callback-form-cards" name="edit-profile">
                 <h2 class="callback__title">Предлагаем рассрочку!</h2>
@@ -474,8 +505,9 @@
                 <fieldset class="callback__handlers">
                     <input class="callback__button" type="submit" value="Заказать звонок">
                 </fieldset>
+                 </form>
             -->
-            </form>
+
 
         </section>
 

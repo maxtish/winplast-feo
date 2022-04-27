@@ -1,0 +1,11 @@
+.prof__content {
+  position: relative;
+
+  width: 600px;
+  height: 518px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+
+  background: rgb(211, 211, 211);
+}

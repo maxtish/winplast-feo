@@ -1,0 +1,29 @@
+.prof__button-callback {
+  width: 250px;
+  height: 56px;
+
+  background-color: #ff3333;
+  border: none;
+  text-align: center;
+  box-sizing: border-box;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 700;
+
+  border: 2px solid rgb(211, 211, 211);
+
+  color: #fff;
+  transition: 0.5s;
+
+  margin-left: 15px;
+  height: 56px;
+
+  border-radius: 10px;
+  padding: 0 10px;
+}
+
+.prof__button-callback:hover {
+  background-color: #00ccff;
+  color: #000;
+  border: 2px solid rgb(211, 211, 211);
+}

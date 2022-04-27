@@ -100,3 +100,79 @@ function send(event, php) {
 }
 
 //  конец ОТПРАВКА PHPMailer
+
+//prof прасмотр профиля
+const buttonProfItem = document.querySelectorAll('.prof__item'); // Кнопки
+const ProfImagesF1 = document.querySelector('.prof__images-p1'); //
+const ProfImagesF2 = document.querySelector('.prof__images-p2'); //
+const ProfImagesF3 = document.querySelector('.prof__images-p3'); //
+const ProfImagesF4 = document.querySelector('.prof__images-p4'); //
+const ProfImagesF5 = document.querySelector('.prof__images-p5'); //
+const ProfImagesF6 = document.querySelector('.prof__images-p6'); //
+
+buttonProfItem.forEach(function (el) {
+  el.addEventListener('click', function () {
+    buttonProfItem.forEach(function (ele) {
+      ele.classList.remove('prof__item_active');
+    });
+    if (el.classList.contains('prof__item_active')) {
+    } else {
+      el.classList.add('prof__item_active');
+      console.log(el.id);
+      if (el.id == 'p1') {
+        ProfImagesF1.classList.add('prof__images_active');
+        ProfImagesF2.classList.remove('prof__images_active');
+        ProfImagesF3.classList.remove('prof__images_active');
+        ProfImagesF4.classList.remove('prof__images_active');
+        ProfImagesF5.classList.remove('prof__images_active');
+        ProfImagesF6.classList.remove('prof__images_active');
+      } else {
+        if (el.id == 'p2') {
+          ProfImagesF1.classList.remove('prof__images_active');
+          ProfImagesF2.classList.add('prof__images_active');
+          ProfImagesF3.classList.remove('prof__images_active');
+          ProfImagesF4.classList.remove('prof__images_active');
+          ProfImagesF5.classList.remove('prof__images_active');
+          ProfImagesF6.classList.remove('prof__images_active');
+        } else {
+          if (el.id == 'p3') {
+            ProfImagesF1.classList.remove('prof__images_active');
+            ProfImagesF2.classList.remove('prof__images_active');
+            ProfImagesF3.classList.add('prof__images_active');
+            ProfImagesF4.classList.remove('prof__images_active');
+            ProfImagesF5.classList.remove('prof__images_active');
+            ProfImagesF6.classList.remove('prof__images_active');
+          } else {
+            if (el.id == 'p4') {
+              ProfImagesF1.classList.remove('prof__images_active');
+              ProfImagesF2.classList.remove('prof__images_active');
+              ProfImagesF3.classList.remove('prof__images_active');
+              ProfImagesF4.classList.add('prof__images_active');
+              ProfImagesF5.classList.remove('prof__images_active');
+              ProfImagesF6.classList.remove('prof__images_active');
+            } else {
+              if (el.id == 'p5') {
+                ProfImagesF1.classList.remove('prof__images_active');
+                ProfImagesF2.classList.remove('prof__images_active');
+                ProfImagesF3.classList.remove('prof__images_active');
+                ProfImagesF4.classList.remove('prof__images_active');
+                ProfImagesF5.classList.add('prof__images_active');
+                ProfImagesF6.classList.remove('prof__images_active');
+              } else {
+                if (el.id == 'p6') {
+                  ProfImagesF1.classList.remove('prof__images_active');
+                  ProfImagesF2.classList.remove('prof__images_active');
+                  ProfImagesF3.classList.remove('prof__images_active');
+                  ProfImagesF4.classList.remove('prof__images_active');
+                  ProfImagesF5.classList.remove('prof__images_active');
+                  ProfImagesF6.classList.add('prof__images_active');
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  });
+});
+//конец  prof прасмотр профиля

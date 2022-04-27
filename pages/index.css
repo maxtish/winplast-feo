@@ -40,6 +40,32 @@
 @import url(../blocks/lead/__icon/lead__icon.css);
 @import url(../blocks/lead/__link/lead__link.css);
 
+/* prof */
+@import url(../blocks/prof/prof.css);
+@import url(../blocks/prof/__content/prof__content.css);
+@import url(../blocks/prof/__list/prof__list.css);
+@import url(../blocks/prof/__item/prof__item.css);
+@import url(../blocks/prof/__item/_active/prof__item_active.css);
+@import url(../blocks/prof/__images-p1/prof__images-p1.css);
+@import url(../blocks/prof/__images-p2/prof__images-p2.css);
+@import url(../blocks/prof/__images-p3/prof__images-p3.css);
+@import url(../blocks/prof/__images-p4/prof__images-p4.css);
+@import url(../blocks/prof/__images-p5/prof__images-p5.css);
+@import url(../blocks/prof/__images-p6/prof__images-p6.css);
+@import url(../blocks/prof/__images/_active/prof__images_active.css);
+@import url(../blocks/prof/__title/prof__title.css);
+@import url(../blocks/prof/__right/prof__right.css);
+@import url(../blocks/prof/__section/prof__section.css);
+@import url(../blocks/prof/__text-sale/prof__text-sale.css);
+@import url(../blocks/prof/__text-strike/prof__text-strike.css);
+@import url(../blocks/prof/__text-color/prof__text-color.css);
+@import url(../blocks/prof/__paragraph/prof__paragraph.css);
+@import url(../blocks/prof/__button-callback/prof__button-callback.css);
+@import url(../blocks/prof/__akcia/prof__akcia.css);
+@import url(../blocks/prof/__callback/prof__callback.css);
+@import url(../blocks/prof/__subtitle/prof__subtitle.css);
+@import url(../blocks/prof/__title-text/prof__title-text.css);
+
 /* steps */
 @import url(../blocks/steps/steps.css);
 @import url(../blocks/steps/__title/steps__title.css);

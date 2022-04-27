@@ -1,0 +1,9 @@
+.prof__title-text {
+  margin: 40px 0 0 0;
+  padding: 0 0 40px 0;
+  font-size: 25px;
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(126, 126, 126);
+  border-bottom: 2px solid rgb(211, 211, 211);
+}

@@ -1,0 +1,16 @@
+.header__ico-call {
+  display: none;
+  width: 20px;
+  height: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 750px) {
+  .header__ico-call {
+    display: block;
+    width: 32px;
+    height: 32px;
+    margin-right: 5px;
+  }
+}

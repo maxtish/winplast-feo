@@ -1,8 +1,14 @@
 .header__container {
-  width: 290px;
+  max-width: 290px;
   margin-right: 20px;
 }
 
 .header__container:last-of-type {
   margin-right: 0;
+}
+
+@media screen and (max-width: 1200px) {
+  .header__container {
+    margin-right: 10px;
+  }
 }

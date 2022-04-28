@@ -176,3 +176,62 @@ buttonProfItem.forEach(function (el) {
   });
 });
 //конец  prof прасмотр профиля
+
+//popup
+const popupClose = document.querySelector('#popup-close-callback');
+const headerCallback = document.querySelector('.header__callback');
+const popupCallback = document.querySelector('#popup-callback');
+const leadButtonSale = document.querySelector('.lead__button-sale');
+const stepsButtonCallback = document.querySelector('.steps__button-callback');
+const aboutLinkCallback = document.querySelector('.about__link-callback');
+const profButtonCallback = document.querySelector('.prof__button-callback');
+const elementsButtonCallback = document.querySelectorAll(
+  '.elements__button-callback'
+);
+const comfortButtonsCallback = document.querySelectorAll('.comfort__callback');
+
+//Закрыть
+
+popupClose.addEventListener('click', function () {
+  console.log(popupCallback);
+  console.log('Click');
+  popupCallback.classList.remove('popup_opened');
+  console.log(popupCallback);
+});
+
+//открыть
+function openPopupCallback() {
+  popupCallback.classList.add('popup_opened');
+}
+
+headerCallback.addEventListener('click', function () {
+  openPopupCallback();
+});
+
+leadButtonSale.addEventListener('click', function () {
+  openPopupCallback();
+});
+
+stepsButtonCallback.addEventListener('click', function () {
+  openPopupCallback();
+});
+
+aboutLinkCallback.addEventListener('click', function () {
+  openPopupCallback();
+});
+
+profButtonCallback.addEventListener('click', function () {
+  openPopupCallback();
+});
+
+elementsButtonCallback.forEach(function (el) {
+  el.addEventListener('click', function () {
+    openPopupCallback();
+  });
+});
+
+comfortButtonsCallback.forEach(function (el) {
+  el.addEventListener('click', function () {
+    openPopupCallback();
+  });
+});

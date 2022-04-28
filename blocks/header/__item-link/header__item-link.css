@@ -9,3 +9,21 @@
   color: #f9ca24;
   text-decoration: underline;
 }
+
+@media screen and (max-width: 768px) {
+  .header__item-link {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .header__item-link {
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .header__item-link {
+    font-size: 8px;
+  }
+}

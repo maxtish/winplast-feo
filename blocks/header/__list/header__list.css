@@ -5,3 +5,21 @@
   list-style-type: none;
   padding: 0;
 }
+
+@media screen and (max-width: 768px) {
+  .header__list {
+    margin: 10px 0;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .header__list {
+    margin: 8px 0;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .header__list {
+    margin: 5px 0;
+  }
+}

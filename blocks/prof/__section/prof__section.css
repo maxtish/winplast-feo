@@ -5,3 +5,18 @@
   -moz-box-shadow: 4px 4px 35px 0px rgba(34, 60, 80, 0.2);
   box-shadow: 4px 4px 35px 0px rgba(34, 60, 80, 0.2);
 }
+
+@media screen and (max-width: 1240px) {
+  .prof__section {
+    flex-direction: column;
+    align-items: center;
+    max-width: 600px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .prof__section {
+    width: 90vw;
+    margin: 20px 5px;
+  }
+}

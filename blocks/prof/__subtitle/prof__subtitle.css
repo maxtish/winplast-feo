@@ -4,3 +4,9 @@
   padding-bottom: 30px;
   border-bottom: 2px solid rgb(211, 211, 211);
 }
+
+@media screen and (max-width: 768px) {
+  .prof__subtitle {
+    font-size: 28px;
+  }
+}

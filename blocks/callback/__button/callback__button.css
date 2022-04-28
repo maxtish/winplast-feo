@@ -27,3 +27,9 @@
   color: #000;
   border: 2px solid rgb(211, 211, 211);
 }
+
+@media screen and (max-width: 660px) {
+  .callback__button {
+    height: 40px;
+  }
+}

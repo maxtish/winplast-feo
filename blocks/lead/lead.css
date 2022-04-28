@@ -10,6 +10,12 @@
   align-items: center;
   justify-content: space-between;
 }
+
+@media screen and (max-width: 660px) {
+  .lead {
+    min-height: 1000px;
+  }
+}
 /*
 .lead::before {
   background: rgb(0, 0, 0);

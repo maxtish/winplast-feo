@@ -11,3 +11,9 @@
   margin-left: 0;
   margin-bottom: 0;
 }
+
+@media screen and (max-width: 660px) {
+  .callback__item_lead {
+    height: 40px;
+  }
+}

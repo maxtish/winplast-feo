@@ -9,3 +9,9 @@
 .callback__item:first-of-type {
   margin-left: 0;
 }
+
+@media screen and (max-width: 660px) {
+  .callback__item {
+    height: 40px;
+  }
+}

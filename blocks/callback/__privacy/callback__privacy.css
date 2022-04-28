@@ -2,3 +2,12 @@
   font-size: 17px;
   color: rgb(211, 211, 211);
 }
+
+@media screen and (max-width: 660px) {
+  .callback__privacy {
+    width: 250px;
+    font-size: 10px;
+    margin: 0;
+    text-align: center;
+  }
+}

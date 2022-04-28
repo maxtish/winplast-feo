@@ -5,3 +5,27 @@
   display: flex;
   flex-direction: column;
 }
+
+@media screen and (max-width: 1000px) {
+  .lead__wrapper-right {
+    margin-right: 75px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .lead__wrapper-right {
+    margin-right: 50px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__wrapper-right {
+    margin-right: 20px;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .lead__wrapper-right {
+    margin-top: 50px;
+  }
+}

@@ -1,0 +1,1264 @@
+Uri: https://alum.venta23.ru/
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\index.htm
+Content Type: text/html
+
+Uri: https://alum.venta23.ru/bitrix/cache/css/vl/alum/kernel_main/kernel_main_v1.css?16264221749804
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\cache\css\vl\alum\kernel_main\kernel_main_v1.css
+Content Type: text/css
+
+Uri: https://alum.venta23.ru/bitrix/cache/css/vl/alum/page_9176c60975ccf79c7e4178771c9e2183/page_9176c60975ccf79c7e4178771c9e2183_v1.css?16264221742499
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\cache\css\vl\alum\page_9176c60975ccf79c7e4178771c9e2183\page_9176c60975ccf79c7e4178771c9e2183_v1.css
+Content Type: text/css
+
+Uri: https://alum.venta23.ru/bitrix/cache/css/vl/alum/template_752641ddc4ce2f495638e7124eaa76bc/template_752641ddc4ce2f495638e7124eaa76bc_v1.css?16264221742691137
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\cache\css\vl\alum\template_752641ddc4ce2f495638e7124eaa76bc\template_752641ddc4ce2f495638e7124eaa76bc_v1.css
+Content Type: text/css
+
+Uri: https://alum.venta23.ru/bitrix/cache/js/vl/alum/kernel_main/kernel_main_v1.js?1653996592151609
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\cache\js\vl\alum\kernel_main\kernel_main_v1.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/cache/js/vl/alum/kernel_main_polyfill_customevent/kernel_main_polyfill_customevent_v1.js?16264221741051
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\cache\js\vl\alum\kernel_main_polyfill_customevent\kernel_main_polyfill_customevent_v1.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/js/main/core/core.min.js?1590503679249634
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\main\core\core.min.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/js/main/core/core_frame_cache.min.js?157710319410422
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\main\core\core_frame_cache.min.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/js/main/core/core_ls.min.js?15277184967365
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\main\core\core_ls.min.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/js/main/core/css/core.min.css?15277184962854
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\main\core\css\core.min.css
+Content Type: text/css
+
+Uri: https://alum.venta23.ru/bitrix/js/main/core/images/calendar-sprite.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\main\core\images\calendar-sprite.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/js/main/core/images/panel/top-panel-sprite-2.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\main\core\images\panel\top-panel-sprite-2.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/js/main/popup/dist/main.popup.bundle.min.css?158825635723459
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\main\popup\dist\main.popup.bundle.min.css
+Content Type: text/css
+
+Uri: https://alum.venta23.ru/bitrix/js/main/popup/dist/main.popup.bundle.min.js?159600936758041
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\main\popup\dist\main.popup.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/js/ui/dexie/dist/dexie.bitrix.bundle.min.js?159125569960291
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\ui\dexie\dist\dexie.bitrix.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/js/ui/fonts/opensans/opensans-bold.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\ui\fonts\opensans\opensans-bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/js/ui/fonts/opensans/opensans-bold.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\ui\fonts\opensans\opensans-bold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/js/ui/fonts/opensans/opensans-bold.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\ui\fonts\opensans\opensans-bold.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/js/ui/fonts/opensans/opensans-light.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\ui\fonts\opensans\opensans-light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/js/ui/fonts/opensans/opensans-light.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\ui\fonts\opensans\opensans-light.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/js/ui/fonts/opensans/opensans-light.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\ui\fonts\opensans\opensans-light.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/js/ui/fonts/opensans/opensans-regular.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\ui\fonts\opensans\opensans-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/js/ui/fonts/opensans/opensans-regular.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\ui\fonts\opensans\opensans-regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/js/ui/fonts/opensans/opensans-regular.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\ui\fonts\opensans\opensans-regular.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/js/ui/fonts/opensans/opensans-semibold.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\ui\fonts\opensans\opensans-semibold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/js/ui/fonts/opensans/opensans-semibold.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\ui\fonts\opensans\opensans-semibold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/js/ui/fonts/opensans/opensans-semibold.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\ui\fonts\opensans\opensans-semibold.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?15434829441861
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\js\ui\fonts\opensans\ui.font.opensans.min.css
+Content Type: text/css
+
+Uri: https://alum.venta23.ru/bitrix/templates/alfa/assets/img/mx.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alfa\assets\img\mx.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alfa/assets/img/xl.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alfa\assets\img\xl.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/img/100001.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\img\100001.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/img/fs.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\img\fs.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/img/map.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\img\map.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/img/map.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\img\map.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/img/pattern-venta.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\img\pattern-venta.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/js/components/hs.carousel.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\js\components\hs.carousel.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/js/components/hs.cubeportfolio.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\js\components\hs.cubeportfolio.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/js/components/hs.header.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\js\components\hs.header.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/js/components/hs.modal-window.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\js\components\hs.modal-window.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/js/components/hs.onscroll-animation.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\js\components\hs.onscroll-animation.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/js/components/hs.popup.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\js\components\hs.popup.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/js/components/hs.scroll-nav.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\js\components\hs.scroll-nav.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/js/components/hs.tabs.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\js\components\hs.tabs.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/js/custom.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/js/helpers/hs.hamburgers.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\js\helpers\hs.hamburgers.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/js/hs.core.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\js\hs.core.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/appear.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\appear.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/bootstrap/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\bootstrap\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/bootstrap/popper.min.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\bootstrap\popper.min.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/cubeportfolio-full/cubeportfolio/img/cbp-sprite.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\cubeportfolio-full\cubeportfolio\img\cbp-sprite.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/cubeportfolio-full/cubeportfolio/js/jquery.cubeportfolio.min.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\cubeportfolio-full\cubeportfolio\js\jquery.cubeportfolio.min.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/custombox/custombox.min.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\custombox\custombox.min.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/bokeh/b1.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\bokeh\b1.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/bokeh/b2.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\bokeh\b2.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/bokeh/b3.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\bokeh\b3.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/bokeh/b4.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\bokeh\b4.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/img/arrow-left-black-small.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\img\arrow-left-black-small.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/img/arrow-left-black.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\img\arrow-left-black.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/img/arrow-left-white.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\img\arrow-left-white.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/img/arrow-left.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\img\arrow-left.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/img/arrow-right-black-small.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\img\arrow-right-black-small.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/img/arrow-right-black.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\img\arrow-right-black.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/img/arrow-right-white.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\img\arrow-right-white.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/img/arrow-right.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\img\arrow-right.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/img/arrow-round-left.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\img\arrow-round-left.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/img/arrow-round-right.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\img\arrow-round-right.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/img/bullet.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\img\bullet.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/img/closedhand.cur
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\img\closedhand.cur
+Content Type: 
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/img/openhand.cur
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\img\openhand.cur
+Content Type: 
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/img/preloader.gif
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\img\preloader.gif
+Content Type: image/gif
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/img/shadow.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\img\shadow.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/img/skin-agapa-arrow-left.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\img\skin-agapa-arrow-left.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/img/skin-agapa-arrow-right.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\img\skin-agapa-arrow-right.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/advancedscroller/plugin.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\advancedscroller\plugin.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/dzsparallaxer.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\dzsparallaxer.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/dzsscroller/scroller.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\dzsscroller\scroller.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/dzsscroller/styleimg/closedhand.cur
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\dzsscroller\styleimg\closedhand.cur
+Content Type: 
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/dzsscroller/styleimg/handle.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\dzsscroller\styleimg\handle.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/dzsscroller/styleimg/openhand.cur
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\dzsscroller\styleimg\openhand.cur
+Content Type: 
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/dzsscroller/styleimg/preloader.gif
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\dzsscroller\styleimg\preloader.gif
+Content Type: image/gif
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/dzsscroller/styleimg/progress.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\dzsscroller\styleimg\progress.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/dzsscroller/styleimg/progressblue.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\dzsscroller\styleimg\progressblue.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/dzsscroller/styleimg/progressy.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\dzsscroller\styleimg\progressy.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/dzsscroller/styleimg/s3scrollerx.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\dzsscroller\styleimg\s3scrollerx.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/dzsscroller/styleimg/s3scrollery.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\dzsscroller\styleimg\s3scrollery.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/dzsscroller/styleimg/scroller1.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\dzsscroller\styleimg\scroller1.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/dzsscroller/styleimg/skin_timeline_bg.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\dzsscroller\styleimg\skin_timeline_bg.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/dzsparallaxer/dzsscroller/styleimg/skin_timeline_handle.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\dzsparallaxer\dzsscroller\styleimg\skin_timeline_handle.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/fancybox/jquery.fancybox.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\fancybox\jquery.fancybox.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-awesome\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-hs/fonts/hs-icons.svg?xa77py
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-hs\fonts\hs-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-hs/fonts/hs-icons.ttf?xa77py
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-hs\fonts\hs-icons.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-hs/fonts/hs-icons.woff?xa77py
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-hs\fonts\hs-icons.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/christmas/webfont/fonts/cristmas.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\christmas\webfont\fonts\cristmas.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/christmas/webfont/fonts/cristmas.eot?
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\christmas\webfont\fonts\cristmas-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/christmas/webfont/fonts/cristmas.svg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\christmas\webfont\fonts\cristmas.svg
+Content Type: image/svg+xml
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/christmas/webfont/fonts/cristmas.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\christmas\webfont\fonts\cristmas.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/christmas/webfont/fonts/cristmas.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\christmas\webfont\fonts\cristmas.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/clothes/webfont/fonts/clothes.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\clothes\webfont\fonts\clothes.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/clothes/webfont/fonts/clothes.eot?
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\clothes\webfont\fonts\clothes-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/clothes/webfont/fonts/clothes.svg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\clothes\webfont\fonts\clothes.svg
+Content Type: image/svg+xml
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/clothes/webfont/fonts/clothes.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\clothes\webfont\fonts\clothes.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/clothes/webfont/fonts/clothes.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\clothes\webfont\fonts\clothes.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/communication/webfont/fonts/communication-48-x-48.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\communication\webfont\fonts\communication-48-x-48.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/communication/webfont/fonts/communication-48-x-48.eot?
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\communication\webfont\fonts\communication-48-x-48-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/communication/webfont/fonts/communication-48-x-48.svg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\communication\webfont\fonts\communication-48-x-48.svg
+Content Type: image/svg+xml
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/communication/webfont/fonts/communication-48-x-48.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\communication\webfont\fonts\communication-48-x-48.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/communication/webfont/fonts/communication-48-x-48.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\communication\webfont\fonts\communication-48-x-48.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/education/webfont/fonts/education-48.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\education\webfont\fonts\education-48.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/education/webfont/fonts/education-48.eot?
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\education\webfont\fonts\education-48-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/education/webfont/fonts/education-48.svg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\education\webfont\fonts\education-48.svg
+Content Type: image/svg+xml
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/education/webfont/fonts/education-48.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\education\webfont\fonts\education-48.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/education/webfont/fonts/education-48.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\education\webfont\fonts\education-48.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/electronics/webfont/fonts/electronics.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\electronics\webfont\fonts\electronics.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/electronics/webfont/fonts/electronics.eot?
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\electronics\webfont\fonts\electronics-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/electronics/webfont/fonts/electronics.svg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\electronics\webfont\fonts\electronics.svg
+Content Type: image/svg+xml
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/electronics/webfont/fonts/electronics.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\electronics\webfont\fonts\electronics.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/electronics/webfont/fonts/electronics.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\electronics\webfont\fonts\electronics.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/finance/webfont/fonts/finance.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\finance\webfont\fonts\finance.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/finance/webfont/fonts/finance.eot?
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\finance\webfont\fonts\finance-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/finance/webfont/fonts/finance.svg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\finance\webfont\fonts\finance.svg
+Content Type: image/svg+xml
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/finance/webfont/fonts/finance.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\finance\webfont\fonts\finance.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/finance/webfont/fonts/finance.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\finance\webfont\fonts\finance.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/food/webfont/fonts/food-48.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\food\webfont\fonts\food-48.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/food/webfont/fonts/food-48.eot?
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\food\webfont\fonts\food-48-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/food/webfont/fonts/food-48.svg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\food\webfont\fonts\food-48.svg
+Content Type: image/svg+xml
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/food/webfont/fonts/food-48.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\food\webfont\fonts\food-48.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/food/webfont/fonts/food-48.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\food\webfont\fonts\food-48.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/furniture/webfont/fonts/furniture.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\furniture\webfont\fonts\furniture.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/furniture/webfont/fonts/furniture.eot?
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\furniture\webfont\fonts\furniture-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/furniture/webfont/fonts/furniture.svg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\furniture\webfont\fonts\furniture.svg
+Content Type: image/svg+xml
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/furniture/webfont/fonts/furniture.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\furniture\webfont\fonts\furniture.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/furniture/webfont/fonts/furniture.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\furniture\webfont\fonts\furniture.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/hotel-restaurant/webfont/fonts/hotel-restaurant.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\hotel-restaurant\webfont\fonts\hotel-restaurant.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/hotel-restaurant/webfont/fonts/hotel-restaurant.eot?
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\hotel-restaurant\webfont\fonts\hotel-restaurant-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/hotel-restaurant/webfont/fonts/hotel-restaurant.svg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\hotel-restaurant\webfont\fonts\hotel-restaurant.svg
+Content Type: image/svg+xml
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/hotel-restaurant/webfont/fonts/hotel-restaurant.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\hotel-restaurant\webfont\fonts\hotel-restaurant.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/hotel-restaurant/webfont/fonts/hotel-restaurant.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\hotel-restaurant\webfont\fonts\hotel-restaurant.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/media/webfont/fonts/media.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\media\webfont\fonts\media.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/media/webfont/fonts/media.eot?
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\media\webfont\fonts\media-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/media/webfont/fonts/media.svg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\media\webfont\fonts\media.svg
+Content Type: image/svg+xml
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/media/webfont/fonts/media.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\media\webfont\fonts\media.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/media/webfont/fonts/media.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\media\webfont\fonts\media.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/medical/webfont/fonts/medical-and-health.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\medical\webfont\fonts\medical-and-health.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/medical/webfont/fonts/medical-and-health.eot?
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\medical\webfont\fonts\medical-and-health-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/medical/webfont/fonts/medical-and-health.svg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\medical\webfont\fonts\medical-and-health.svg
+Content Type: image/svg+xml
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/medical/webfont/fonts/medical-and-health.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\medical\webfont\fonts\medical-and-health.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/medical/webfont/fonts/medical-and-health.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\medical\webfont\fonts\medical-and-health.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/music/webfont/fonts/music.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\music\webfont\fonts\music.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/music/webfont/fonts/music.eot?
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\music\webfont\fonts\music-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/music/webfont/fonts/music.svg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\music\webfont\fonts\music.svg
+Content Type: image/svg+xml
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/music/webfont/fonts/music.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\music\webfont\fonts\music.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/music/webfont/fonts/music.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\music\webfont\fonts\music.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/real-estate/webfont/fonts/real-estate.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\real-estate\webfont\fonts\real-estate.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/real-estate/webfont/fonts/real-estate.eot?
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\real-estate\webfont\fonts\real-estate-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/real-estate/webfont/fonts/real-estate.svg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\real-estate\webfont\fonts\real-estate.svg
+Content Type: image/svg+xml
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/real-estate/webfont/fonts/real-estate.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\real-estate\webfont\fonts\real-estate.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/real-estate/webfont/fonts/real-estate.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\real-estate\webfont\fonts\real-estate.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/science/webfont/fonts/science.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\science\webfont\fonts\science.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/science/webfont/fonts/science.eot?
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\science\webfont\fonts\science-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/science/webfont/fonts/science.svg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\science\webfont\fonts\science.svg
+Content Type: image/svg+xml
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/science/webfont/fonts/science.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\science\webfont\fonts\science.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/science/webfont/fonts/science.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\science\webfont\fonts\science.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/sports/webfont/fonts/sports-48-x-48.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\sports\webfont\fonts\sports-48-x-48.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/sports/webfont/fonts/sports-48-x-48.eot?
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\sports\webfont\fonts\sports-48-x-48-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/sports/webfont/fonts/sports-48-x-48.svg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\sports\webfont\fonts\sports-48-x-48.svg
+Content Type: image/svg+xml
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/sports/webfont/fonts/sports-48-x-48.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\sports\webfont\fonts\sports-48-x-48.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/sports/webfont/fonts/sports-48-x-48.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\sports\webfont\fonts\sports-48-x-48.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/transport/webfont/fonts/transport.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\transport\webfont\fonts\transport.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/transport/webfont/fonts/transport.eot?
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\transport\webfont\fonts\transport-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/transport/webfont/fonts/transport.svg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\transport\webfont\fonts\transport.svg
+Content Type: image/svg+xml
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/transport/webfont/fonts/transport.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\transport\webfont\fonts\transport.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/transport/webfont/fonts/transport.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\transport\webfont\fonts\transport.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/travel/webfont/fonts/travel.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\travel\webfont\fonts\travel.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/travel/webfont/fonts/travel.eot?
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\travel\webfont\fonts\travel-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/travel/webfont/fonts/travel.svg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\travel\webfont\fonts\travel.svg
+Content Type: image/svg+xml
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/travel/webfont/fonts/travel.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\travel\webfont\fonts\travel.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/travel/webfont/fonts/travel.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\travel\webfont\fonts\travel.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/weather/webfont/fonts/weather.eot
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\weather\webfont\fonts\weather.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/weather/webfont/fonts/weather.eot?
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\weather\webfont\fonts\weather-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/weather/webfont/fonts/weather.svg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\weather\webfont\fonts\weather.svg
+Content Type: image/svg+xml
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/weather/webfont/fonts/weather.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\weather\webfont\fonts\weather.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line-pro/weather/webfont/fonts/weather.woff
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line-pro\weather\webfont\fonts\weather.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line/fonts/Simple-Line-Icons.eot?v=2.4.0
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line\fonts\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line/fonts/Simple-Line-Icons.svg?v=2.4.0
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line\fonts\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line/fonts/Simple-Line-Icons.ttf?v=2.4.0
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line\fonts\Simple-Line-Icons.ttf
+Content Type: application/font-sfnt
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line/fonts/Simple-Line-Icons.woff2?v=2.4.0
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line\fonts\Simple-Line-Icons.woff2
+Content Type: 
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/icon-line/fonts/Simple-Line-Icons.woff?v=2.4.0
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\icon-line\fonts\Simple-Line-Icons.woff
+Content Type: application/font-woff
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/jquery.easing/js/jquery.easing.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\jquery.easing\js\jquery.easing.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/jquery/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\jquery\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/jquery/jquery-migrate-3.0.1.min.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\jquery\jquery-migrate-3.0.1.min.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/slick-carousel/slick/slick.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\slick-carousel\slick\slick.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/assets/vendor/typedjs/typed.min.js
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\assets\vendor\typedjs\typed.min.js
+Content Type: application/javascript
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/components/bitrix/form.result.new/call_back_al/images/icon_warn.gif
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\components\bitrix\form.result.new\call_back_al\images\icon_warn.gif
+Content Type: image/gif
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/components/bitrix/form.result.new/call_back_al/images/table_head.gif
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\components\bitrix\form.result.new\call_back_al\images\table_head.gif
+Content Type: image/gif
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/components/bitrix/form.result.new/free_metering_al/images/icon_warn.gif
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\components\bitrix\form.result.new\free_metering_al\images\icon_warn.gif
+Content Type: image/gif
+
+Uri: https://alum.venta23.ru/bitrix/templates/alum/components/bitrix/form.result.new/free_metering_al/images/table_head.gif
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\alum\components\bitrix\form.result.new\free_metering_al\images\table_head.gif
+Content Type: image/gif
+
+Uri: https://alum.venta23.ru/bitrix/templates/main/img/bg3.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\bitrix\templates\main\img\bg3.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/favicon.ico
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://alum.venta23.ru/favicon96.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\favicon96.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/icon.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\icon.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/upload/iblock/146/kr1.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\iblock\146\kr1.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/iblock/1f8/sh1.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\iblock\1f8\sh1.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/iblock/411/un1.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\iblock\411\un1.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/iblock/62a/ur1.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\iblock\62a\ur1.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/iblock/680/gu1.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\iblock\680\gu1.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/iblock/768/ma1.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\iblock\768\ma1.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/iblock/872/sm1.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\iblock\872\sm1.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/iblock/8aa/ac1.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\iblock\8aa\ac1.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/iblock/8d9/kv1.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\iblock\8d9\kv1.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/iblock/8f4/lai.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\iblock\8f4\lai.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/iblock/ad8/vl1.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\iblock\ad8\vl1.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/iblock/b72/vo1.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\iblock\b72\vo1.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/iblock/bb5/sh1.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\iblock\bb5\sh1.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/iblock/dcf/kv.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\iblock\dcf\kv.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/iblock/e02/lv1.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\iblock\e02\lv1.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/014/f10.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\014\f10.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/01d/Al15.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\01d\Al15.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/02d/oib02.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\02d\oib02.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/050/ald01.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\050\ald01.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/0ec/f06.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\0ec\f06.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/108/al11.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\108\al11.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/10d/a02.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\10d\a02.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/129/alper01.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\129\alper01.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/207/a07.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\207\a07.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/21b/vw_min.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\21b\vw_min.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/upload/medialibrary/22d/gud.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\22d\gud.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/24a/ald02.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\24a\ald02.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/270/Al19.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\270\Al19.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/28b/reynaers_aluminium_evidence.pdf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\28b\reynaers_aluminium_evidence.pdf
+Content Type: application/pdf
+
+Uri: https://alum.venta23.ru/upload/medialibrary/2aa/Al7.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\2aa\Al7.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/2c8/Al14.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\2c8\Al14.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/352/Al17.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\352\Al17.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/370/Al9.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\370\Al9.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/383/Al11.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\383\Al11.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/3c4/a04.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\3c4\a04.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/471/Politika_v_otnoshenii_obrabotki_dannykh.pdf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\471\Politika_v_otnoshenii_obrabotki_dannykh.pdf
+Content Type: application/pdf
+
+Uri: https://alum.venta23.ru/upload/medialibrary/4cb/Al18.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\4cb\Al18.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/58b/hl5.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\58b\hl5.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/upload/medialibrary/59b/se4.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\59b\se4.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/5aa/shc.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\5aa\shc.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/5cc/claro03.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\5cc\claro03.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/5d4/nik.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\5d4\nik.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/618/Al23.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\618\Al23.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/63b/f02.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\63b\f02.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/690/zs1.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\690\zs1.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/upload/medialibrary/6a1/f11.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\6a1\f11.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/6aa/vg_min.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\6aa\vg_min.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/upload/medialibrary/709/s01.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\709\s01.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/71b/Al16.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\71b\Al16.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/774/zsad01.jpeg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\774\zsad01.jpeg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/775/al21.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\775\al21.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/7be/s05.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\7be\s05.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/7dc/f03.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\7dc\f03.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/7ee/Al21.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\7ee\Al21.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/7f1/f09.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\7f1\f09.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/81c/reynaers2.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\81c\reynaers2.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/872/razdv03.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\872\razdv03.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/91b/kos.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\91b\kos.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/936/Al13.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\936\Al13.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/97d/f01.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\97d\f01.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/9d5/Al12.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\9d5\Al12.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/9e0/ano.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\9e0\ano.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/9f2/Al20.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\9f2\Al20.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/a3b/zsad02.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\a3b\zsad02.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/a3e/f08.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\a3e\f08.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/a45/alper03.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\a45\alper03.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/a78/se3.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\a78\se3.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/ac1/a05.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\ac1\a05.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/b55/Al5.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\b55\Al5.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/b62/f05.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\b62\f05.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/b7a/razdv01.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\b7a\razdv01.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/b8d/s02.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\b8d\s02.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/bc8/s06.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\bc8\s06.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/c18/razdv02.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\c18\razdv02.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/cc5/f19.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\cc5\f19.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/ce1/alper02.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\ce1\alper02.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/cea/hl3.png
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\cea\hl3.png
+Content Type: image/png
+
+Uri: https://alum.venta23.ru/upload/medialibrary/cff/AI4.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\cff\AI4.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/d01/a03.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\d01\a03.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/d8e/f04.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\d8e\f04.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/dcc/f07.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\dcc\f07.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/e11/a01.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\e11\a01.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/e21/oib03.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\e21\oib03.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/e38/claro01.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\e38\claro01.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/e42/f14.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\e42\f14.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/e59/s07.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\e59\s07.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/e67/oib01.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\e67\oib01.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/eb4/krz.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\eb4\krz.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/ebf/ald03.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\ebf\ald03.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/f0a/Al8.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\f0a\Al8.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/f38/f18.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\f38\f18.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/f57/Al10.JPG
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\f57\Al10.JPG
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/f95/Al24.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\f95\Al24.jpg
+Content Type: image/jpeg
+
+Uri: https://alum.venta23.ru/upload/medialibrary/fbe/claro02.jpg
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\upload\medialibrary\fbe\claro02.jpg
+Content Type: image/jpeg
+
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:abe2a485727a77bd57f3b7ba3bfd3bdd0e4ae5e317db7cae868d8388ce6229a9&width=100%25&height=350&lang=ru_RU&scroll=false&id=mymap
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\services\constructor\1.0\js\index.htm
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800|Rubik:300,400,500,700,900&display=swap&subset=cyrillic
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap&subset=cyrillic
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4kaVc.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4kaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4kaVc.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4kaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4kaVc.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4kaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4kaVc.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4kaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4kaVc.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4kaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v21/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FU0Uw.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\s\rubik\v21\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FU0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v21/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFU0Uw.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\s\rubik\v21\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFU0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v21/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFU0Uw.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\s\rubik\v21\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFU0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v21/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-FU0Uw.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\s\rubik\v21\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-FU0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v21/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFU0Uw.ttf
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\s\rubik\v21\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFU0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/67354216
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\watch\67354216
+Content Type: image/gif
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-95H0JGXDH1
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-178662744-1
+File Name: C:\Downloaded Web Sites\alum.venta23.ru\gtag\js-1
+Content Type: application/javascript
+

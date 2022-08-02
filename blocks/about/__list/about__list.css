@@ -1,7 +1,0 @@
-.about__list {
-  margin-top: 50px;
-  list-style-type: none;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-}

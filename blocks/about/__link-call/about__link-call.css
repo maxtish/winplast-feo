@@ -1,9 +1,0 @@
-.about__link-call {
-  text-decoration: underline;
-  transition: 0.3s;
-  color: #f9ca24;
-}
-
-.about__link-call:hover {
-  opacity: 0.8;
-}
